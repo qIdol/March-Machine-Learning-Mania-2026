@@ -144,12 +144,5 @@ uv run jupyter notebook
     print (sys.executable)
     ```
 
-## Testing
-
-To validate the quickstart process in a clean environment:
-
--   **CPU / Windows:** Utilize **Windows Sandbox** (Windows Pro/Enterprise) for an isolated, disposable Windows environment.
--   **NVIDIA GPU / Linux:** Initialize a fresh WSL2 instance (e.g., `wsl --install -d Ubuntu-22.04`).
-
 ------
 

@@ -62,7 +62,7 @@ uv 0.11.2 (02036a8ba 2026-03-26 x86_64-pc-windows-msvc)
 
 [Installing `uv`](https://docs.astral.sh/uv/getting-started/installation/)
 
-*Note: This project requires Python 3.11. `uv` will automatically fetch the required Python version if it is not present on the system.*
+**Note** This project requires Python 3.11. `uv` will automatically fetch the required Python version if it is not present on the system.
 
 ### Clone the Repository
 
